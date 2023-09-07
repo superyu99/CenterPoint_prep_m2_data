@@ -1,0 +1,1 @@
+python det3d/datasets/waymo/waymo_converter.py --record_path '/data/aronlin/CenterPoint/data/waymo/tfrecord_validation/*.tfrecord' --root_path '/data/aronlin/CenterPoint/data/waymo/val'
